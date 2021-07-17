@@ -1,0 +1,8 @@
+{
+  "name": "mathjax-thunderbird",
+  "version": "1.0.0",
+  "description": "MathJax loader for Thunderbird.",
+  "dependencies": {
+    "mathjax": "^3.2.0"
+  }
+}
